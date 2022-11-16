@@ -8,7 +8,7 @@ export default class Home extends Component {
     return (
       <div className="home grow">
         <Feaures />
-        <Chart grid Title="Month Sale" Data={xAxisData} dataKey="Sale" />
+        <Chart grid title="Month Sale" data={xAxisData} dataKey="Sale" />
       </div>
     );
   }

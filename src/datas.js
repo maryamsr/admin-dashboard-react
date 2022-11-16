@@ -4,10 +4,9 @@ let xAxisData = [
     Sale: 112_000,
   },
   {
-    name: 'Fab',
+    name: 'Feb',
     Sale: 99_000,
   },
-
   {
     name: 'Mar',
     Sale: 12_090,
@@ -19,6 +18,10 @@ let xAxisData = [
   {
     name: 'May',
     Sale: 54_000,
+  },
+  {
+    name: 'Jun',
+    Sale: 85_000,
   },
   {
     name: 'Jul',
